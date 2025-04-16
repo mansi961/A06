@@ -14,7 +14,7 @@ a:focus {
 	font-style: italic;
 }
 
-header em.shadow {
+em.shadow {
 	text-shadow: 1px 1px var(--global-color-1);
 }
 /* the styles for the header */
